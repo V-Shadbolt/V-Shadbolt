@@ -1,10 +1,10 @@
 ### <div align="center">I'm Vincent, a Biomedical Engineer lost in web3</div>  
   
 
-- 🔭 I’m currently working on [a Strapi v4+ Docker image](https://github.com/V-Shadbolt/docker-strapi)  
+- 🔭 I’m currently working on a [Stable Diffusion Telegram Bot](https://github.com/V-Shadbolt/stable-diffusion-telegram-bot)
   
 
-- 🌱 I’m currently learning NextJS and Strapi  
+- 🌱 I’m currently learning Stable Diffusion and LLMs  
   
 
 - ❓ I help integrate code  
